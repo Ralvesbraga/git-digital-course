@@ -1,4 +1,4 @@
-# Curso Digital: Git/Versionamento
+# Curso Digital: Git/Versionamento (Santander Coders/Ada Tech)
 
 ## Salvando alterações no Git
 * comando git push
